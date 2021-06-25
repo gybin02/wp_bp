@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bpChina</title>
+	<atom:link href="http://host-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>又一个WordPress站点</description>
+	<lastBuildDate>Fri, 25 Jun 2021 07:00:20 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>世界，您好！</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2021 07:00:20 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
+										<content:encoded><![CDATA[
+<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>[recent-posts]测试</title>
+		<link>/recent-posts%e6%b5%8b%e8%af%95/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 25 Mar 2017 13:42:50 +0000</pubDate>
+				<category><![CDATA[关于]]></category>
+		<guid isPermaLink="false">http://localhost/?p=109</guid>
+
+					<description><![CDATA[测试 [layerslider id=&#8221;1&#8243;]]]></description>
+										<content:encoded><![CDATA[<p><span class="pun">测试</span></p>
+<ol class="linenums">
+<li class="L0">[layerslider id=&#8221;1&#8243;]</li>
+</ol>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ShortCode</title>
+		<link>/shortcode/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 25 Mar 2017 13:28:28 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">http://localhost/?p=107</guid>
+
+					<description><![CDATA[[contact-form-7 id=&#8221;80&#8243; title=&#8221;Contac&#8230;&#160;<a href="/shortcode/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">ShortCode</span></a>]]></description>
+										<content:encoded><![CDATA[<p>[contact-form-7 id=&#8221;80&#8243; title=&#8221;Contact form 1&#8243;]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>世界，您好！</title>
+		<link>/hello-world-3/</link>
+					<comments>/hello-world-3/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 25 Mar 2017 12:02:17 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">http://localhost/?p=1</guid>
+
+					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
+										<content:encoded><![CDATA[<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world-3/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>世界，您好！</title>
+		<link>/hello-world-3-2/</link>
+					<comments>/hello-world-3-2/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 24 Mar 2017 07:29:12 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">http://www.17bot.com/?p=1</guid>
+
+					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
+										<content:encoded><![CDATA[<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world-3-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>工程部部分客户名录</title>
+		<link>/%e5%b7%a5%e7%a8%8b%e9%83%a8%e9%83%a8%e5%88%86%e5%ae%a2%e6%88%b7%e5%90%8d%e5%bd%95/</link>
+					<comments>/%e5%b7%a5%e7%a8%8b%e9%83%a8%e9%83%a8%e5%88%86%e5%ae%a2%e6%88%b7%e5%90%8d%e5%bd%95/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 13:52:36 +0000</pubDate>
+				<category><![CDATA[客户及案例]]></category>
+		<guid isPermaLink="false">http://localhost/?p=71</guid>
+
+					<description><![CDATA[工程部部分客户名录 法国赛诺菲圣德拉堡民生制药（上海）有限公司 恒隆广场31、32楼及3507室，共计760余&#8230;&#160;<a href="/%e5%b7%a5%e7%a8%8b%e9%83%a8%e9%83%a8%e5%88%86%e5%ae%a2%e6%88%b7%e5%90%8d%e5%bd%95/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">工程部部分客户名录</span></a>]]></description>
+										<content:encoded><![CDATA[<table border="0" width="430" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pageHeader" width="430">
+<div align="left"><span class="STYLE7"><span class="STYLE11">工程部部分客户名录</span></span></div>
+</td>
+</tr>
+<tr>
+<td class="bodyText STYLE5 STYLE20"><strong>法国赛诺菲圣德拉堡民生制药（上海）有限公司</strong><br />
+恒隆广场31、32楼及3507室，共计760余点改造及新建工程<br />
+<strong>安万特(中国)投资有限公司上海办事处 </strong><br />
+本本大厦8楼9楼424点位及多功能会议室新建工程<br />
+<strong>罗氏制药公司</strong><br />
+淮海国际广场机房搬迁工程（共计32台服务器）<br />
+<strong>纽威咨询服务（深圳）有限公司上海分公司</strong><br />
+港汇广场18楼4 /3层380余点布线工程<br />
+<strong>摩力特集团</strong><br />
+嘉华中心25层，400余点布线工程<br />
+<strong>上海联亚商业有限公司</strong><br />
+中区广场18楼280余点布线及语音交换机工程<br />
+<strong>全球货运南京办事处</strong><br />
+南京商茂世纪广场2305室60余点及语音交换机布线工程<br />
+<strong>丝凤兰家具有限公司</strong><br />
+莲花南路厂区及办公室200余点综合布线及语音交换机工程<br />
+<strong>B&amp;Q 南京雨花店</strong><br />
+南京雨花店200余点改造工程<br />
+<strong>B&amp;Q南京栖霞店</strong><br />
+南京柄霞店200余点改造工程<br />
+<strong>无锡玉龙钢管厂</strong><br />
+无锡玉祁镇2万平方米厂区监控系统工程<br />
+<strong>瑞典商业银行</strong><br />
+中山东一路40余点布线及语音交换机工程<br />
+<strong>全球货运宁波办事处</strong><br />
+宁波天一广场150余点综合布线及语音交换机工程<br />
+<strong>铂金－艾尔默仪器有限公司</strong><br />
+张江高科技园区400余点综合布线及语音交换机工程<br />
+<strong>上海外文图书公司</strong><br />
+语音交换机工程<br />
+<strong>梅特勒综合布线工程</strong><br />
+多层楼面综合布线及语音交换机工程<br />
+无线网桥对接工程<br />
+监控安防工程<br />
+<strong>新马建设集团</strong><br />
+300余点综合布线及门禁系统<br />
+<strong>Siemens土耳其TDI 100万吨纯碱项目DVM设备安装工程</strong><br />
+项目地点：土耳其<br />
+<strong>巴塞尔北京综合布线项目</strong><br />
+项目地点：北京<br />
+<span class="STYLE21">IT服务客户名录</span><strong>Armstrong、Corning、BOC、MOTOROLA、SCHENKER、TYCO、Siemens、BAYER、Roche 、American-Standard、PULMASTER、KENWOOD、Kalmar、Mettler-Toledo……</strong></td>
+</tr>
+</tbody>
+</table>
+<p><div id="attachment_78" style="width: 223px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-78" loading="lazy" class="size-medium wp-image-78" src="http://localhost/wp-content/uploads/2017/03/image10-213x300.jpg" alt="????????????????????????????????????????????????" width="213" height="300" /><p id="caption-attachment-78" class="wp-caption-text">????????????????????????????????????????????????</p></div></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%e5%b7%a5%e7%a8%8b%e9%83%a8%e9%83%a8%e5%88%86%e5%ae%a2%e6%88%b7%e5%90%8d%e5%bd%95/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>联系方式</title>
+		<link>/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/</link>
+					<comments>/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 13:52:06 +0000</pubDate>
+				<category><![CDATA[ 产品与解决方案]]></category>
+		<guid isPermaLink="false">http://localhost/?p=69</guid>
+
+					<description><![CDATA[联系方式 信息工程部联系人：郝先生 13601946832 数码部联系人：戚先生 13003208737 ER&#8230;&#160;<a href="/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">联系方式</span></a>]]></description>
+										<content:encoded><![CDATA[<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr bgcolor="#ffffff">
+<td valign="top" width="440">
+<table border="0" width="430" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pageHeader" width="430">
+<div align="left"><span class="STYLE7"><span class="STYLE11">联系方式</span></span></div>
+</td>
+</tr>
+<tr>
+<td class="bodyText">
+<p class="STYLE9" align="left">
+<p class="STYLE9" align="left">信息工程部联系人：郝先生 13601946832</p>
+<p class="STYLE9" align="left">数码部联系人：戚先生 13003208737</p>
+<p class="STYLE9" align="left">ERP实施部联系人：费先生 13331966080</p>
+<p class="STYLE9" align="left">Email：<a href="mailto:service.bp@shbkbm.com">service.bp@shbkbm.com</a></p>
+</td>
+</tr>
+<tr>
+<td class="bodyText">
+<div align="center">
+<p class="STYLE10" align="left">
+<p class="STYLE10" align="left"><span class="STYLE18"><span class="STYLE21">公司地址：上海市番禺路390号时代大厦1806室<br />
+邮政编码：200052<br />
+电话：86 (21) 52585196<br />
+传真：86 (21) 52585028</span></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>B&#038;P 博克奔迈 ERP实施部简介</title>
+		<link>/bp-%e5%8d%9a%e5%85%8b%e5%a5%94%e8%bf%88-erp%e5%ae%9e%e6%96%bd%e9%83%a8%e7%ae%80%e4%bb%8b/</link>
+					<comments>/bp-%e5%8d%9a%e5%85%8b%e5%a5%94%e8%bf%88-erp%e5%ae%9e%e6%96%bd%e9%83%a8%e7%ae%80%e4%bb%8b/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 13:51:48 +0000</pubDate>
+				<category><![CDATA[ 产品与解决方案]]></category>
+		<guid isPermaLink="false">http://localhost/?p=67</guid>
+
+					<description><![CDATA[B&#38;P 博克奔迈 ERP实施部简介 博克奔迈实施部拥有一支年轻的顾问队伍，目前主要从事于ERP软件的推&#8230;&#160;<a href="/bp-%e5%8d%9a%e5%85%8b%e5%a5%94%e8%bf%88-erp%e5%ae%9e%e6%96%bd%e9%83%a8%e7%ae%80%e4%bb%8b/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">B&#038;P 博克奔迈 ERP实施部简介</span></a>]]></description>
+										<content:encoded><![CDATA[<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr bgcolor="#ffffff">
+<td valign="top" width="440">
+<table border="0" width="430" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pageHeader" width="430"></td>
+</tr>
+<tr>
+<td class="bodyText">
+<div align="left">B&amp;P 博克奔迈 <span class="STYLE3">ERP实施部简介</span></div>
+<p class="bodyText">博克奔迈实施部拥有一支年轻的顾问队伍，目前主要从事于ERP软件的推广和应用。博克奔迈主要代理的产品为美国四班ERP系统（FourthShift），并且将业务延伸到条码、APS高级排产系统，弥补了ERP产品无限产能的问题，使ERP软件能成为企业管理的最佳工具。</p>
+<p class="bodyText"><strong>我们实施ERP的最终目标：</strong><br />
+一 系统运行集成化，软件的运作跨越多个部门;<br />
+二 业务流程合理化，各级业务部门根据完全优化后的流程重新构建;<br />
+三 绩效监控动态化，绩效系统能即时反馈以便纠正管理中存在的问题;<br />
+四 管理改善持续化，企业建立一个可以不断自我评价和不断改善管理的机制。</p>
+<p class="bodyText"><strong>ERP外围产品：</strong><br />
+四班条码服务器（FS BARCODE SERVER)<br />
+四班邮件应用系统（FS MAIL SERVER)</p>
+<div class="logo" align="center">
+<div class="STYLE5" align="justify">部门联系人：费骁 Richard Fei</div>
+</div>
+<p class="STYLE22" align="center"><span class="STYLE10">TEL：86（21）61172220<br />
+MSN:richardfei@golden21cn.com<br />
+电邮：golden21cn@gmail.com<br />
+手机：13331966080</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bp-%e5%8d%9a%e5%85%8b%e5%a5%94%e8%bf%88-erp%e5%ae%9e%e6%96%bd%e9%83%a8%e7%ae%80%e4%bb%8b/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>售后服务</title>
+		<link>/%e5%94%ae%e5%90%8e%e6%9c%8d%e5%8a%a1/</link>
+					<comments>/%e5%94%ae%e5%90%8e%e6%9c%8d%e5%8a%a1/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 13:50:50 +0000</pubDate>
+				<category><![CDATA[ 产品与解决方案]]></category>
+		<guid isPermaLink="false">http://localhost/?p=65</guid>
+
+					<description><![CDATA[售后服务 ( Continue Service ) B＆P完善的服务体系、专业的技术服务团队为客户提供持续的运&#8230;&#160;<a href="/%e5%94%ae%e5%90%8e%e6%9c%8d%e5%8a%a1/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">售后服务</span></a>]]></description>
+										<content:encoded><![CDATA[<p class="STYLE23" align="center">售后服务<br />
+( Continue Service )</p>
+<p class="STYLE22" align="left">B＆P完善的服务体系、专业的技术服务团队为客户提供持续的运行维护和专业技术支持。<br />
+项目维护：当项目系统建设验收后，则自动进入系统硬件维护期，第一年属于免费维护，第二年则开始实行收费维护。<br />
+硬件技术支援：负责提供24小时热线服务受理及服务跟踪监督职能提供技术咨询应答服务；负责对用户给予故障排障的技术支援。<br />
+服务中心：直接承担工程的安装督导、接续与工程验收；负责工程故障的快速抢通任务，受理辖区客户系统设备的维修需求及安排，负责本地服务中心备品备件库的管理和当地工程数据库的管理。组织和实施，承担工程故障的抢修任务；受理系统设备的维修需求及安排；负责所有的备品备件库的管理。</p>
+<p class="STYLE22" align="left"><strong>产品安装及维护： </strong><br />
+客户服务中心拥有一批技术精湛、训练有素、极富责任心的专职安装队伍，进行产品的安装、维修、集中调度。根据客户的需要，及时提供安装和维修服务，并对客户进行现场培训。备件库提供日常维修所需的备件，建有完备的客户档案和技术资料档案。24小时受理客户的电话咨询和维修请求，及时、准确地为客户排除设备故障，随时随地为客户提供服务。</p>
+<p class="STYLE22" align="left"><strong>维修保证： </strong><br />
+保修期限：最终验收后12个月。<br />
+服务范围： 施工方所提供的宽带基础建设的所有硬件；重大故障或特殊故障的紧急或现场抢修；工程巡检对设备的运行状态做预防性维护。<br />
+客户服务中心设有每周7天、每天24小时值班，客户如有任何问题，可随时联系。根据具体情况，必要用户服务中心工作维修人员到现场指导维护工作。<br />
+<strong>备件供应： </strong><br />
+能够实行7×24小时向客户提供各种所需得备件。<br />
+<strong>客户培训： </strong><br />
+重视用户培训工作，建立了完善的培训体系，制定了严格的培训制度。在设备安装之前，将派具有丰富通信理论知识和实践经验的技术人员对用户进行技术培训，使用户了解产品的特点，使用及维护知识，以保证设备能高质量、长期稳定地运行。<br />
+<strong>响应时间：</strong><br />
+维修电话响应，设有24小时用户咨询维修热线电话，随时响应用户要求；将根据故障登记分别限时到达用户现场，保障用户利益。<br />
+<strong>故障等级定义： </strong><br />
+<strong>一级故障：</strong>设备在运行过程中出现系统瘫痪或主干路由阻断，导致设备的基本功能不能实现的故障；<br />
+<strong>二级故障：</strong>设备在运行过程中出现的直接影响传输服务，导致系统性能或功能不全的故障；</p>
+<p class="STYLE22" align="left"><strong>三级故障：</strong>设备在运行中出现间接地影响系统功能和指标的故障。<br />
+<strong>受理时间： </strong><br />
+<strong>一级故障受理时限：</strong>客户服务中心将紧急启动及时为客户抢修业务，最大限度的保证客户的利益。同时安排人员采用最快捷的交通工具抵达现场。应尽可能在2小时内到达现场，最晚不迟于4小时到达。<br />
+<strong>二级故障受理时限：</strong>客户服务中心技术支援部将启动，及时为客户抢修业务，最大限度的保证客户的利益。同时安排人员采用快捷的交通工具在6小时内到达现场。</p>
+<div class="STYLE22" align="left"><strong>三级故障受理时限：</strong>应在12小时内安排解决。</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%e5%94%ae%e5%90%8e%e6%9c%8d%e5%8a%a1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>项目实施</title>
+		<link>/%e9%a1%b9%e7%9b%ae%e5%ae%9e%e6%96%bd/</link>
+					<comments>/%e9%a1%b9%e7%9b%ae%e5%ae%9e%e6%96%bd/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 13:50:28 +0000</pubDate>
+				<category><![CDATA[ 产品与解决方案]]></category>
+		<guid isPermaLink="false">http://localhost/?p=63</guid>
+
+					<description><![CDATA[项目实施 ( Project Implementation) B＆P以多年的项目实施经验，建立出一套具有自身特&#8230;&#160;<a href="/%e9%a1%b9%e7%9b%ae%e5%ae%9e%e6%96%bd/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">项目实施</span></a>]]></description>
+										<content:encoded><![CDATA[<p class="STYLE23" align="center">项目实施<br />
+( Project Implementation)</p>
+<p class="STYLE22" align="left">B＆P以多年的项目实施经验，建立出一套具有自身特色的项目管理体系，从而使系统项目具有更高的质量保证。</p>
+<p class="STYLE23" align="left">项目实施准备：</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>文件、资料准备</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left">项目基础文件：<br />
+弱电系统招标文件；<br />
+项目设计图纸和说明书及弱电系统方案注意事项；<br />
+项目总概算、修正总概算或设计总概算；<br />
+项目工程承包合同文件；<br />
+项目建设有关政策、法规资料：<br />
+项目建设地区原始调查资料：<br />
+（1）. 地区气象资料；<br />
+（2）. 地区交通运输能力和价格资料；<br />
+（3）. 地区进口设备和材料到货口岸及其转运方式资料；<br />
+（4）. 地下供水、供电、供热和电讯的价格资料；</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>项目管理组织机构设立</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left">项目管理组织机构是项目管理的基础条件，以一个合理有效的组织机构为框架的所形成的权力系统、责任系统、利益系统、信息系统是实施项目管理及其最终目标的组织保障。<br />
+项目管理（提供施工技术，安全保证体系）<br />
+施工项目管理是决定项目建设成败的重要因素。我司将在项目建设中抓住项目劳动管理、项目材料管理和项目技术管理。</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>项目劳动管理：</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left">（1）认真签订和执行合同，并纳入整个施工项目管理控制系统，及时发现并协商解决问题，保证项目总体目标实现。<br />
+（2）保留一定的直接管理权，对违纪、不适宜工作的人员，项目经理部拥有辞退权。<br />
+（3）对劳务人员进行上岗前培训并全面进行项目目标和技术交底工作。<br />
+（4）由我司项目经理部直接组织的管理。<br />
+（5）严格项目内部经济责任制的执行，按合同进行管理。<br />
+（6）严格项目参与人员的培训、考核、奖惩。<br />
+（7）加强劳动保护和安全卫生工作。<br />
+（8）抓好分项项目管理，加强劳动纪律。<br />
+（9）明确作业任务及应提供的计划数目、劳动人数、施工进度要求及劳务进退场的时间，保证任务饱满和生产的连续性、均衡性、安全防护措施的落实，及时供应技术资料，保证文明施工所需的一切费用及设施。</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>项目材料管理：</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left">编制项目材料需要量计划以单位工程为对象归集各种材料需要量，按材料种类，规格分别汇总。在此基础上考虑施工现场材料管理水平及节约措施，编制项目材料需要量计划，以及主要材料需要量计划。在此基础上编制施工项目年、半年、季、月度材料计划表。</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>项目技术管理：</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left">（1）技术管理制度：技术责任制度、图纸会审制度、施工组织设计管理制度、技术交底制度、材料设备检验制度、工程质量检查验收制度工程测量、计量管理制度、环境保护工作。合理化建议管理办法。<br />
+（2）建立施工技术日志：设计变更或施工图修改记录，质量、安全、设备事故分析和处理记录，紧急情况下的特殊措施。项目经理部及业主等方面领导对工程所做的技术方面的建议或决定等。<br />
+（3）建立工程技术档案：作为工程交工验收的必备技术资料，同时也是评定工程技术档案质量、交工后对工程维护的技术依据，集中管理、建立相应的包括图纸、技术文件、资料、照片、报表等<br />
+（4）做好技术情报工作：项目经理部必须在施工活动中随时、及时收集先进技术、设备情报，不断提高施工技术水平和项目总体水平。<br />
+做好技术教育与培训<br />
+（5）根据各项目特点及相应技术安装要求，不断地进行技术培训，提高实施人员的技术素质。</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>项目技术管理的主要工作：</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left">（1）图纸会审；<br />
+（2）施工安全是否有保证；<br />
+（3）技术交底；<br />
+（4）施工时应注意事项；<br />
+（5）技术措施计划；<br />
+（6）技术复核制度。</p>
+<p class="STYLE22" align="left">施工项目主要计划及控制<br />
+施工项目的主要计划指：施工项目总进度计划，施工项目质量计划，施工项目总成本计划。<br />
+施工项目的控制为：施工项目总进度的控制，施工项目总质量控制，施工项目总成本控制，施工项目的安全控制。</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>施工项目总进度计划及其控制</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left">根据建筑结构特点和系统集成要求，全面、实际地实施业主对总进度期限的要求。考虑到系统是一个涉及多学科、多技术、多厂商、多协议面向各种应用的体系结构，从设计到实施是一个复杂应用系统工程的观点的过程，公司将密切配合协调与此项工程的圆满完成为密切的因素：土建工程，装修工程，顺利完成业主的预期总目标。总进度计划以最后施工完成交付总期限目标，我公司根据土建装修实际进度及进度详细计划，从以下几个方面编制详细、合理、科学的进度计划。<br />
+根据独立交工系统先后次序，明确划分，确定各阶段、各单项子系统开、竣工时间按照施工阶段顺序，列出每个阶段内部所有子系统工程，计算其工作量及施工持续时间。</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>项目总质量计划及其控制</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left">施工总质量计划：根据业主对项目的合理、实际要求系统集成项目应达质量的要求优良。<br />
+总质量控制点的设置和要求：<br />
+根据集成建设的特点，我们将总质量控制点分为；设计图纸、隐蔽工程、线管敷设、设备安装、材料、质量计划。</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>项目总成本计划及其控制</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left">施工项目总成本计划是项目经理部在对预测成本决策的基础上，在项目成本形成之间事先预计的施工项目成本水平、降低成本目标及所需采取的技术保障措施等计划文件，它是对施工项目消耗进行控制、考核、评价的依据，也是编制项目资金计划、利润计划的基础。</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>项目安全控制</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left"><strong>安全施工控制的基本原则：</strong><br />
+预防为主<br />
+动态控制<br />
+现场安全为重点<br />
+安全立法措施<br />
+施工现场安全管理<br />
+施工现场安全技术要求的规定<br />
+安全组织措施，建立以项目经理部为主的，包括安全、技术部、消防部门及有关负责人参与的安全组织机构，主持管理现场的安全生产责任制的制定、检查、落实，处理现场发生的重大安全事故，总结经验教训。</p>
+<p class="STYLE23" align="left">项目竣工交验</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>项目竣工交验</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left">系统说明书<br />
+系统工程要求<br />
+系统操作说明<br />
+系统设备清单<br />
+系统内部接线图<br />
+系统审批资料<br />
+系统设计图纸<br />
+机房布置图<br />
+系统竣工检测报告<br />
+平面布置图<br />
+系统项目合同书及有关变更文件</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>项目验收</strong></li>
+</ul>
+</div>
+<p class="STYLE22" align="left">在项目中、除申报有关当局验收项目，如申报广播电视局验收CATV系统，消防局FAS，安全局安保系统等，其余则与业主共同验收，对项目质量做出全面后价。</p>
+<div class="STYLE22" align="left">
+<ul>
+<li><strong>对业主管理、操作人员培训</strong></li>
+</ul>
+<p>我方提供专业技术人员专项负责管理、操作人员的培训，在业主批准的时间内，按实际情况进行，培训课程包括在合同书内的有关系统的操作程序、调校程序，日常保养及损坏修补技术。</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%e9%a1%b9%e7%9b%ae%e5%ae%9e%e6%96%bd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
