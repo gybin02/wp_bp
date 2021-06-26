@@ -12,7 +12,7 @@
 	<atom:link href="http://host-2/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>又一个WordPress站点</description>
-	<lastBuildDate>Fri, 25 Jun 2021 07:00:20 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Mar 2017 13:52:36 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,99 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
-		<title>世界，您好！</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 25 Jun 2021 07:00:20 +0000</pubDate>
-				<category><![CDATA[未分类]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
-										<content:encoded><![CDATA[
-<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>[recent-posts]测试</title>
-		<link>/recent-posts%e6%b5%8b%e8%af%95/</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 25 Mar 2017 13:42:50 +0000</pubDate>
-				<category><![CDATA[关于]]></category>
-		<guid isPermaLink="false">http://localhost/?p=109</guid>
-
-					<description><![CDATA[测试 [layerslider id=&#8221;1&#8243;]]]></description>
-										<content:encoded><![CDATA[<p><span class="pun">测试</span></p>
-<ol class="linenums">
-<li class="L0">[layerslider id=&#8221;1&#8243;]</li>
-</ol>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>ShortCode</title>
-		<link>/shortcode/</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 25 Mar 2017 13:28:28 +0000</pubDate>
-				<category><![CDATA[未分类]]></category>
-		<guid isPermaLink="false">http://localhost/?p=107</guid>
-
-					<description><![CDATA[[contact-form-7 id=&#8221;80&#8243; title=&#8221;Contac&#8230;&#160;<a href="/shortcode/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">ShortCode</span></a>]]></description>
-										<content:encoded><![CDATA[<p>[contact-form-7 id=&#8221;80&#8243; title=&#8221;Contact form 1&#8243;]</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>世界，您好！</title>
-		<link>/hello-world-3/</link>
-					<comments>/hello-world-3/#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 25 Mar 2017 12:02:17 +0000</pubDate>
-				<category><![CDATA[未分类]]></category>
-		<guid isPermaLink="false">http://localhost/?p=1</guid>
-
-					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
-										<content:encoded><![CDATA[<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/hello-world-3/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>世界，您好！</title>
-		<link>/hello-world-3-2/</link>
-					<comments>/hello-world-3-2/#comments</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 24 Mar 2017 07:29:12 +0000</pubDate>
-				<category><![CDATA[未分类]]></category>
-		<guid isPermaLink="false">http://www.17bot.com/?p=1</guid>
-
-					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
-										<content:encoded><![CDATA[<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/hello-world-3-2/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>工程部部分客户名录</title>
 		<link>/%e5%b7%a5%e7%a8%8b%e9%83%a8%e9%83%a8%e5%88%86%e5%ae%a2%e6%88%b7%e5%90%8d%e5%bd%95/</link>
 					<comments>/%e5%b7%a5%e7%a8%8b%e9%83%a8%e9%83%a8%e5%88%86%e5%ae%a2%e6%88%b7%e5%90%8d%e5%bd%95/#respond</comments>
@@ -175,7 +82,7 @@
 </tr>
 </tbody>
 </table>
-<p><div id="attachment_78" style="width: 223px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-78" loading="lazy" class="size-medium wp-image-78" src="http://localhost/wp-content/uploads/2017/03/image10-213x300.jpg" alt="????????????????????????????????????????????????" width="213" height="300" /><p id="caption-attachment-78" class="wp-caption-text">????????????????????????????????????????????????</p></div></p>
+<div id="attachment_78" style="width: 223px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-78" loading="lazy" class="size-medium wp-image-78" src="http://localhost/wp-content/uploads/2017/03/image10-213x300.jpg" alt="????????????????????????????????????????????????" width="213" height="300" /><p id="caption-attachment-78" class="wp-caption-text">????????????????????????????????????????????????</p></div>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/%e5%b7%a5%e7%a8%8b%e9%83%a8%e9%83%a8%e5%88%86%e5%ae%a2%e6%88%b7%e5%90%8d%e5%bd%95/feed/</wfw:commentRss>
@@ -485,6 +392,259 @@ MSN:richardfei@golden21cn.com<br />
 ]]></content:encoded>
 					
 					<wfw:commentRss>/%e9%a1%b9%e7%9b%ae%e5%ae%9e%e6%96%bd/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>项目设计</title>
+		<link>/%e9%a1%b9%e7%9b%ae%e8%ae%be%e8%ae%a1/</link>
+					<comments>/%e9%a1%b9%e7%9b%ae%e8%ae%be%e8%ae%a1/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 13:49:31 +0000</pubDate>
+				<category><![CDATA[ 产品与解决方案]]></category>
+		<guid isPermaLink="false">http://localhost/?p=61</guid>
+
+					<description><![CDATA[项目设计 ( Project Design ) B＆P根据行业和系统的功能及特点，采用先进技术，为客户提供符合&#8230;&#160;<a href="/%e9%a1%b9%e7%9b%ae%e8%ae%be%e8%ae%a1/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">项目设计</span></a>]]></description>
+										<content:encoded><![CDATA[<p class="STYLE23" align="center">项目设计<br />
+( Project Design )</p>
+<p class="STYLE22" align="left">B＆P根据行业和系统的功能及特点，采用先进技术，为客户提供符合国际和国内规范、兼具先进性、开放性、扩展性和经济性的IT弱电系统设计方案，以及最高性价比的解决方案。</p>
+<p class="STYLE23" align="left">按行业性质分类，B＆P提供：</p>
+<div class="STYLE22" align="left">
+<ul>
+<li>办公室IT弱电系统解决方案</li>
+<li>厂房IT弱电系统解决方案</li>
+<li>智能楼宇IT弱电系统解决方案</li>
+<li>零售业IT弱电系统解决方案</li>
+<li>酒店IT弱电系统解决方案</li>
+<li>娱乐IT管理系统解决方案</li>
+</ul>
+</div>
+<p class="STYLE23" align="left">按系统性质分类，B＆P提供：</p>
+<div class="STYLE22" align="left">
+<ul>
+<li>综合布线系统</li>
+<li>无线网络传输系统</li>
+<li>语音交换系统</li>
+<li>局、广域网络系统</li>
+<li>计算机机房建设系统</li>
+<li>数字宽带接入系统</li>
+<li>服务器数据管理、存储系统</li>
+<li>背景音响广播系统</li>
+<li>多功能厅A/V会议系统</li>
+<li>VOD音视频点播系统</li>
+<li>闭路电视监控系统</li>
+<li>门禁考勤管理系统</li>
+<li>防盗报警和巡更系统</li>
+<li>办公自动化系统</li>
+<li>多媒体教学系统</li>
+<li>酒店、餐饮、娱乐管理系统</li>
+<li>医院信息化管理系统</li>
+<li>智能化家居和物业管理系统</li>
+<li>多点视频会议系统</li>
+<li>触摸查询管理系统</li>
+<li>网站建设系统</li>
+</ul>
+<div align="left"><strong>B＆P</strong>将不同的系统合理的融入到各个行业中，以此实现各个行业所需的各项应用和管理功能，最大程度上贴合客户需求。B＆P将通过系统图、平面图、效果图等各类型图纸的设计并结合所编译的文字说明和报价来体现B＆P对于每个项目系统的论证和认识。</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%e9%a1%b9%e7%9b%ae%e8%ae%be%e8%ae%a1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>项目咨询与督导</title>
+		<link>/%e9%a1%b9%e7%9b%ae%e5%92%a8%e8%af%a2%e4%b8%8e%e7%9d%a3%e5%af%bc/</link>
+					<comments>/%e9%a1%b9%e7%9b%ae%e5%92%a8%e8%af%a2%e4%b8%8e%e7%9d%a3%e5%af%bc/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 13:49:11 +0000</pubDate>
+				<category><![CDATA[ 产品与解决方案]]></category>
+		<guid isPermaLink="false">http://localhost/?p=59</guid>
+
+					<description><![CDATA[项目咨询与督导 ( Project Consultation &#38; Quality Control ) &#8230;&#160;<a href="/%e9%a1%b9%e7%9b%ae%e5%92%a8%e8%af%a2%e4%b8%8e%e7%9d%a3%e5%af%bc/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">项目咨询与督导</span></a>]]></description>
+										<content:encoded><![CDATA[<p class="STYLE23" align="center">项目咨询与督导<br />
+( Project Consultation &amp; Quality Control )</p>
+<p class="STYLE22" align="left">B＆P凭借在智能化建设领域所积累的丰富专业经验，以强大的技术实力为后盾，结合成熟先进的技术和产品，为客户提供全面的智能化引用咨询、策划和技术督导。</p>
+<p class="STYLE23" align="left">IT弱电系统可行性分析和定位分析：</p>
+<div class="STYLE22" align="left">
+<div align="left">
+<ul>
+<li>项目内各系统可行程度报告</li>
+<li>项目内各系统定位分析报告</li>
+<li>项目内基础与应用系统建议书</li>
+</ul>
+</div>
+</div>
+<p class="STYLE23" align="left">IT弱电总系统规划：</p>
+<div class="STYLE22" align="left">
+<div align="left">
+<ul>
+<li>项目前期总体框架</li>
+<li>项目前期系统内容</li>
+<li>项目前期系统预算</li>
+<li>项目前期发展规划及步骤</li>
+</ul>
+</div>
+</div>
+<p class="STYLE23" align="left">IT弱电系统工程施工督导：</p>
+<div class="STYLE22" align="left">
+<div align="left">
+<ul>
+<li>项目系统施工和设备材料使用标准</li>
+<li>项目系统施工步骤</li>
+<li>项目系统施工指导和督促</li>
+<li>项目系统施工验收和维护</li>
+</ul>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%e9%a1%b9%e7%9b%ae%e5%92%a8%e8%af%a2%e4%b8%8e%e7%9d%a3%e5%af%bc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>系统集成综合解决方案</title>
+		<link>/%e7%b3%bb%e7%bb%9f%e9%9b%86%e6%88%90%e7%bb%bc%e5%90%88%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/</link>
+					<comments>/%e7%b3%bb%e7%bb%9f%e9%9b%86%e6%88%90%e7%bb%bc%e5%90%88%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 13:48:39 +0000</pubDate>
+				<category><![CDATA[ 产品与解决方案]]></category>
+		<guid isPermaLink="false">http://localhost/?p=57</guid>
+
+					<description><![CDATA[&#160; 系统集成综合解决方案 综合布线 门禁系统 电话系统 消防系统 监控系统 网络改造更新设计等综合解&#8230;&#160;<a href="/%e7%b3%bb%e7%bb%9f%e9%9b%86%e6%88%90%e7%bb%bc%e5%90%88%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">系统集成综合解决方案</span></a>]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<table border="0" width="430" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pageHeader" width="430">
+<div align="left"><span class="STYLE17">系统集成综合解决方案</span></div>
+</td>
+</tr>
+<tr>
+<td class="bodyText">
+<ul>
+<li class="STYLE21">综合布线</li>
+<li class="STYLE21">门禁系统</li>
+<li class="STYLE21">电话系统</li>
+<li class="STYLE21">消防系统</li>
+<li class="STYLE21">监控系统</li>
+<li class="STYLE21">网络改造更新设计等综合解决方案</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%e7%b3%bb%e7%bb%9f%e9%9b%86%e6%88%90%e7%bb%bc%e5%90%88%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>客户IT设备的维护服务</title>
+		<link>/%e5%ae%a2%e6%88%b7it%e8%ae%be%e5%a4%87%e7%9a%84%e7%bb%b4%e6%8a%a4%e6%9c%8d%e5%8a%a1/</link>
+					<comments>/%e5%ae%a2%e6%88%b7it%e8%ae%be%e5%a4%87%e7%9a%84%e7%bb%b4%e6%8a%a4%e6%9c%8d%e5%8a%a1/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 13:47:50 +0000</pubDate>
+				<category><![CDATA[ 产品与解决方案]]></category>
+		<guid isPermaLink="false">http://localhost/?p=55</guid>
+
+					<description><![CDATA[客户IT设备的维护服务 凭借公司的技术力量及同厂家客服部门的良好合作， 公司在硬件销售的基础上还为客户提供IT&#8230;&#160;<a href="/%e5%ae%a2%e6%88%b7it%e8%ae%be%e5%a4%87%e7%9a%84%e7%bb%b4%e6%8a%a4%e6%9c%8d%e5%8a%a1/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">客户IT设备的维护服务</span></a>]]></description>
+										<content:encoded><![CDATA[<table border="0" width="1000" cellspacing="0" cellpadding="0">
+<tbody>
+<tr bgcolor="#ffffff">
+<td valign="top" width="402">
+<table border="0" width="402" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pageHeader" width="413"><span class="STYLE17"><strong>客户IT设备的维护服务</strong></span></td>
+</tr>
+<tr>
+<td class="bodyText">凭借公司的技术力量及同厂家客服部门的良好合作， 公司在硬件销售的基础上还为客户提供IT设备的芯片级维修、软硬件维护及检测服务。<br />
+内容包括：</p>
+<ul>
+<li class="STYLE21">外包工程师的服务</li>
+</ul>
+<p class="STYLE20">根据客户要求和规模提供人性化的常驻外包工程师和选择性时间外包工程师服务</p>
+<ul class="STYLE20">
+<li><strong>现场技术支持/电话技术支持</strong></li>
+</ul>
+<p class="STYLE20">根据状况提供全天候的IT/ERP现场技术支持和免费的电话远程技术支持</p>
+<ul class="STYLE20">
+<li><strong>笔记本芯片级维修</strong></li>
+</ul>
+<p class="STYLE20">为客户维护成本考虑出发，提供相对于厂家标准维修站主板维修级更实惠的芯片级维修维护，出保机器的续保服务等</p>
+</td>
+</tr>
+<tr>
+<td class="bodyText">
+<div align="center">
+<p class="STYLE13">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="7"></td>
+<td width="271"><img loading="lazy" src="index.files/shangwusx_421b.JPG" alt="Home Page Image" width="250" height="352" border="0" /></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%e5%ae%a2%e6%88%b7it%e8%ae%be%e5%a4%87%e7%9a%84%e7%bb%b4%e6%8a%a4%e6%9c%8d%e5%8a%a1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>知名品牌IT产品代理销售</title>
+		<link>/%e7%9f%a5%e5%90%8d%e5%93%81%e7%89%8cit%e4%ba%a7%e5%93%81%e4%bb%a3%e7%90%86%e9%94%80%e5%94%ae/</link>
+					<comments>/%e7%9f%a5%e5%90%8d%e5%93%81%e7%89%8cit%e4%ba%a7%e5%93%81%e4%bb%a3%e7%90%86%e9%94%80%e5%94%ae/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 23 Mar 2017 13:47:20 +0000</pubDate>
+				<category><![CDATA[ 产品与解决方案]]></category>
+		<guid isPermaLink="false">http://localhost/?p=53</guid>
+
+					<description><![CDATA[知名品牌IT产品代理销售 硬件产品的代理销售为客户多样化个性化的需求提供全方位的选择，公司利用这一业务广泛的同&#8230;&#160;<a href="/%e7%9f%a5%e5%90%8d%e5%93%81%e7%89%8cit%e4%ba%a7%e5%93%81%e4%bb%a3%e7%90%86%e9%94%80%e5%94%ae/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">知名品牌IT产品代理销售</span></a>]]></description>
+										<content:encoded><![CDATA[<table border="0" width="430" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="pageHeader" width="430">
+<div align="left"><strong><span class="STYLE17">知名品牌IT产品代理销售</span></strong></div>
+</td>
+</tr>
+<tr>
+<td class="bodyText">
+<p class="STYLE9" align="left">
+<p class="STYLE21">硬件产品的代理销售为客户多样化个性化的需求提供全方位的选择，公司利用这一业务广泛的同客户建立联系，并树立形象。代理内容包括：</p>
+<p class="STYLE21">
+<ul>
+<li class="STYLE1">IBM,HP,DELL工作站,笔记本</li>
+<li class="STYLE1">IBM,HP,DELL企业服务器及外围存储设备</li>
+<li class="STYLE1">3M,INFOCUS,Panasonic等投影机及其配件</li>
+<li class="STYLE1">Cisco,3Com,Netcore,TP-LINK,D-LINK,Alpha交换机</li>
+<li class="STYLE1">Panasonic,SIEMENS,NEC,AVAYA语音交换机</li>
+<li class="STYLE1">数码部的Sony录音笔华东总经销</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%e7%9f%a5%e5%90%8d%e5%93%81%e7%89%8cit%e4%ba%a7%e5%93%81%e4%bb%a3%e7%90%86%e9%94%80%e5%94%ae/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
