@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	“bpChina”的评论	</title>
-	<atom:link href="http://host-2/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	《售后服务》的评论	</title>
+	<atom:link href="http://host-2/%E5%94%AE%E5%90%8E%E6%9C%8D%E5%8A%A1/feed/" rel="self" type="application/rss+xml" />
+	<link>/%e5%94%ae%e5%90%8e%e6%9c%8d%e5%8a%a1/</link>
 	<description>B&#38;PChina 中国领先的系统集成商</description>
-	<lastBuildDate>Mon, 28 Jun 2021 02:28:46 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Mar 2017 13:50:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

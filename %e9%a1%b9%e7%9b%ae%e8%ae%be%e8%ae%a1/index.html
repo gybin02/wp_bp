@@ -6,12 +6,14 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-		<title>关于我们 &#8211; bpChina</title>
+			<link rel="pingback" href="/xmlrpc.php">
+		<title>项目设计 &#8211; bpChina</title>
 <meta name="robots" content="max-image-preview:large">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="bpChina &raquo; Feed" href="/feed/">
 <link rel="alternate" type="application/rss+xml" title="bpChina &raquo; 评论Feed" href="/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="bpChina &raquo; 项目设计评论Feed" href="/%e9%a1%b9%e7%9b%ae%e8%ae%be%e8%ae%a1/feed/">
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/host-2:8888\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -32,29 +34,21 @@ img.emoji {
 <link rel="stylesheet" id="neve-style-css" href="/wp-content/themes/neve/style-main.min.css?ver=2.11.6" type="text/css" media="all">
 <style id="neve-style-inline-css" type="text/css">.header-menu-sidebar-inner li.menu-item-nav-search { display: none; }
  .container{ max-width: 748px; } .has-neve-button-color-color{ color: var(--nv-secondary-accent)!important; } .has-neve-button-color-background-color{ background-color: var(--nv-secondary-accent)!important; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:718px } .button.button-primary, button, input[type=button], .btn, input[type="submit"], /* Buttons in navigation */ ul[id^="nv-primary-navigation"] li.button.button-primary > a, .menu li.button.button-primary > a, .wp-block-button.is-style-primary .wp-block-button__link, .wc-block-grid .wp-block-button .wp-block-button__link, form input[type="submit"], form button[type="submit"], #comments input[type="submit"]{ background-color: var(--nv-secondary-accent);color: var(--nv-text-color);border-radius:0px 0px 0px 0px;border:none;border-width:1px 1px 1px 1px; } .button.button-primary:hover, ul[id^="nv-primary-navigation"] li.button.button-primary > a:hover, .menu li.button.button-primary > a:hover, .wp-block-button.is-style-primary .wp-block-button__link:hover, .wc-block-grid .wp-block-button .wp-block-button__link:hover, form input[type="submit"]:hover, form button[type="submit"]:hover, #comments input[type="submit"]:hover{ background-color: var(--nv-secondary-accent);color: var(--nv-text-color); } .button.button-secondary:not(.secondary-default), .wp-block-button.is-style-secondary .wp-block-button__link{ background-color: rgba(0,0,0,0);color: var(--nv-primary-accent);border-radius:0px 0px 0px 0px;border:1px solid;border-width:2px 2px 2px 2px; } .button.button-secondary.secondary-default{ background-color: rgba(0,0,0,0);color: var(--nv-primary-accent);border-radius:0px 0px 0px 0px;border:1px solid;border-width:2px 2px 2px 2px; } .button.button-secondary:not(.secondary-default):hover, .wp-block-button.is-style-secondary .wp-block-button__link:hover{ background-color: var(--nv-primary-accent);color: var(--nv-text-dark-bg); } .button.button-secondary.secondary-default:hover{ background-color: var(--nv-primary-accent);color: var(--nv-text-dark-bg); } .button.button-primary, .wp-block-button.is-style-primary .wp-block-button__link, .wc-block-grid .wp-block-button .wp-block-button__link, form input[type="submit"], form button[type="submit"], #comments input[type="submit"]{ padding:12px 24px 12px 24px; } .button.button-secondary:not(.secondary-default), .wp-block-button.is-style-secondary .wp-block-button__link{ padding:12px 24px 12px 24px; } body, .site-title{ font-size: 15px; line-height: 1.6; letter-spacing: 0px; font-weight: 400; text-transform: none; font-family: Poppins, var(--nv-fallback-ff); } h1, .single h1.entry-title{ font-size: 39px; line-height: 1.2em; letter-spacing: 0px; font-weight: 600; text-transform: none; font-family: Poppins, var(--nv-fallback-ff); } h2{ font-size: 30px; line-height: 1.3em; letter-spacing: 0px; font-weight: 600; text-transform: none; font-family: Poppins, var(--nv-fallback-ff); } h3, .woocommerce-checkout h3{ font-size: 20px; line-height: 1.3em; letter-spacing: 0px; font-weight: 600; text-transform: none; font-family: Poppins, var(--nv-fallback-ff); } h4{ font-size: 16px; line-height: 1.3em; letter-spacing: 0px; font-weight: 600; text-transform: none; font-family: Poppins, var(--nv-fallback-ff); } h5{ font-size: 14px; line-height: 1.3em; letter-spacing: 0px; font-weight: 600; text-transform: none; font-family: Poppins, var(--nv-fallback-ff); } h6{ font-size: 14px; line-height: 1.3em; letter-spacing: 0px; font-weight: 600; text-transform: none; font-family: Poppins, var(--nv-fallback-ff); } form:not([role="search"]):not(.woocommerce-cart-form):not(.woocommerce-ordering):not(.cart) input:read-write:not(#coupon_code), form textarea, form select, .widget select{ margin-bottom: 10px; } form input:read-write, form textarea, form select, form select option, form.wp-block-search input.wp-block-search__input, .widget select{ color: var(--nv-text-color); font-family: Poppins, var(--nv-fallback-ff); } form label, .wpforms-container .wpforms-field-label{ margin-bottom: 10px; } form.search-form input:read-write{ padding-right:45px !important; font-family: Poppins, var(--nv-fallback-ff); } .header-main-inner,.header-main-inner a:not(.button),.header-main-inner .navbar-toggle{ color: var(--nv-text-color); } .header-main-inner .nv-icon svg,.header-main-inner .nv-contact-list svg{ fill: var(--nv-text-color); } .header-main-inner .icon-bar{ background-color: var(--nv-text-color); } .hfg_header .header-main-inner .nav-ul .sub-menu{ background-color: var(--nv-site-bg); } .hfg_header .header-main-inner{ background-color: var(--nv-site-bg); } .header-menu-sidebar .header-menu-sidebar-bg,.header-menu-sidebar .header-menu-sidebar-bg a:not(.button),.header-menu-sidebar .header-menu-sidebar-bg .navbar-toggle{ color: var(--nv-text-color); } .header-menu-sidebar .header-menu-sidebar-bg .nv-icon svg,.header-menu-sidebar .header-menu-sidebar-bg .nv-contact-list svg{ fill: var(--nv-text-color); } .header-menu-sidebar .header-menu-sidebar-bg .icon-bar{ background-color: var(--nv-text-color); } .hfg_header .header-menu-sidebar .header-menu-sidebar-bg .nav-ul .sub-menu{ background-color: #ffffff; } .hfg_header .header-menu-sidebar .header-menu-sidebar-bg{ background-color: #ffffff; } .header-menu-sidebar{ width: 360px; } .builder-item--logo .site-logo img{ max-width: 32px; } .builder-item--logo .site-logo{ padding:10px 0px 10px 0px; } .builder-item--logo{ margin:0px 0px 0px 0px; } .builder-item--nav-icon .navbar-toggle, .header-menu-sidebar .close-sidebar-panel .navbar-toggle{ border-radius:3px;border:1px solid;border-width:1px; } .builder-item--nav-icon .navbar-toggle{ padding:10px 15px 10px 15px; } .builder-item--nav-icon{ margin:0px 0px 0px 0px; } .builder-item--primary-menu .nav-menu-primary > .nav-ul li:not(.woocommerce-mini-cart-item) > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul .has-caret > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul .neve-mm-heading span,.builder-item--primary-menu .nav-menu-primary > .nav-ul .has-caret{ color: var(--nv-text-color); } .builder-item--primary-menu .nav-menu-primary > .nav-ul li:not(.woocommerce-mini-cart-item) > a:after,.builder-item--primary-menu .nav-menu-primary > .nav-ul li > .has-caret > a:after{ background-color: var(--nv-secondary-accent); } .builder-item--primary-menu .nav-menu-primary > .nav-ul li:not(.woocommerce-mini-cart-item):hover > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul li:hover > .has-caret > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul li:hover > .has-caret{ color: var(--nv-secondary-accent); } .builder-item--primary-menu .nav-menu-primary > .nav-ul li:hover > .has-caret svg{ fill: var(--nv-secondary-accent); } .builder-item--primary-menu .nav-menu-primary > .nav-ul li.current-menu-item > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul li.current_page_item > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul li.current_page_item > .has-caret > a{ color: var(--nv-text-color); } .builder-item--primary-menu .nav-menu-primary > .nav-ul li.current-menu-item > .has-caret svg{ fill: var(--nv-text-color); } .builder-item--primary-menu .nav-ul > li:not(:last-of-type){ margin-right:20px; } .builder-item--primary-menu .style-full-height .nav-ul li:not(.menu-item-nav-search):not(.menu-item-nav-cart):hover > a:after{ width: calc(100% + 20px); } .builder-item--primary-menu .nav-ul li a, .builder-item--primary-menu .neve-mm-heading span{ min-height: 25px; } .builder-item--primary-menu{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; font-weight: 600; text-transform: uppercase; padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--primary-menu svg{ width: 1em;height: 1em; } .footer-bottom-inner{ background-color: var(--nv-dark-bg); } .footer-bottom-inner,.footer-bottom-inner a:not(.button),.footer-bottom-inner .navbar-toggle{ color: var(--nv-text-dark-bg); } .footer-bottom-inner .nv-icon svg,.footer-bottom-inner .nv-contact-list svg{ fill: var(--nv-text-dark-bg); } .footer-bottom-inner .icon-bar{ background-color: var(--nv-text-dark-bg); } .footer-bottom-inner .nav-ul .sub-menu{ background-color: var(--nv-dark-bg); } .builder-item--footer_copyright{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; font-weight: 500; text-transform: none; padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--footer_copyright svg{ width: 1em;height: 1em; } @media(min-width: 576px){ .container{ max-width: 992px; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:962px } .button.button-primary, .wp-block-button.is-style-primary .wp-block-button__link, .wc-block-grid .wp-block-button .wp-block-button__link, form input[type="submit"], form button[type="submit"], #comments input[type="submit"]{ padding:12px 24px 12px 24px; } .button.button-secondary:not(.secondary-default), .wp-block-button.is-style-secondary .wp-block-button__link{ padding:12px 24px 12px 24px; } body, .site-title{ font-size: 16px; line-height: 1.6; letter-spacing: 0px; } h1, .single h1.entry-title{ font-size: 55px; line-height: 1.3em; letter-spacing: 0px; } h2{ font-size: 35px; line-height: 1.3em; letter-spacing: 0px; } h3, .woocommerce-checkout h3{ font-size: 20px; line-height: 1.3em; letter-spacing: 0px; } h4{ font-size: 16px; line-height: 1.3em; letter-spacing: 0px; } h5{ font-size: 14px; line-height: 1.3em; letter-spacing: 0px; } h6{ font-size: 14px; line-height: 1.3em; letter-spacing: 0px; } .header-menu-sidebar{ width: 360px; } .builder-item--logo .site-logo img{ max-width: 32px; } .builder-item--logo .site-logo{ padding:10px 0px 10px 0px; } .builder-item--logo{ margin:0px 0px 0px 0px; } .builder-item--nav-icon .navbar-toggle{ padding:10px 15px 10px 15px; } .builder-item--nav-icon{ margin:0px 0px 0px 0px; } .builder-item--primary-menu .nav-ul > li:not(:last-of-type){ margin-right:20px; } .builder-item--primary-menu .style-full-height .nav-ul li:not(.menu-item-nav-search):not(.menu-item-nav-cart):hover > a:after{ width: calc(100% + 20px); } .builder-item--primary-menu .nav-ul li a, .builder-item--primary-menu .neve-mm-heading span{ min-height: 25px; } .builder-item--primary-menu{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--primary-menu svg{ width: 1em;height: 1em; } .builder-item--footer_copyright{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--footer_copyright svg{ width: 1em;height: 1em; } }@media(min-width: 960px){ .container{ max-width: 1170px; } body:not(.single):not(.archive):not(.blog):not(.search) .neve-main > .container .col{ max-width: 100%; } body:not(.single):not(.archive):not(.blog):not(.search) .nv-sidebar-wrap{ max-width: 0%; } .neve-main > .archive-container .nv-index-posts.col{ max-width: 100%; } .neve-main > .archive-container .nv-sidebar-wrap{ max-width: 0%; } .neve-main > .single-post-container .nv-single-post-wrap.col{ max-width: 70%; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:789px } .container-fluid.single-post-container .alignfull > [class*="__inner-container"], .container-fluid.single-post-container .alignwide > [class*="__inner-container"]{ max-width:calc(70% + 15px) } .neve-main > .single-post-container .nv-sidebar-wrap{ max-width: 30%; } .button.button-primary, .wp-block-button.is-style-primary .wp-block-button__link, .wc-block-grid .wp-block-button .wp-block-button__link, form input[type="submit"], form button[type="submit"], #comments input[type="submit"]{ padding:12px 24px 12px 24px; } .button.button-secondary:not(.secondary-default), .wp-block-button.is-style-secondary .wp-block-button__link{ padding:12px 24px 12px 24px; } body, .site-title{ font-size: 17px; line-height: 1.7; letter-spacing: 0px; } h1, .single h1.entry-title{ font-size: 70px; line-height: 1.3em; letter-spacing: 0px; } h2{ font-size: 50px; line-height: 1.3em; letter-spacing: 0px; } h3, .woocommerce-checkout h3{ font-size: 24px; line-height: 1.3em; letter-spacing: 0px; } h4{ font-size: 20px; line-height: 1.3em; letter-spacing: 0px; } h5{ font-size: 16px; line-height: 1.3em; letter-spacing: 0px; } h6{ font-size: 16px; line-height: 1.3em; letter-spacing: 0px; } .header-menu-sidebar{ width: 360px; } .builder-item--logo .site-logo img{ max-width: 32px; } .builder-item--logo .site-logo{ padding:10px 0px 10px 0px; } .builder-item--logo{ margin:0px 0px 0px 0px; } .builder-item--nav-icon .navbar-toggle{ padding:10px 15px 10px 15px; } .builder-item--nav-icon{ margin:0px 0px 0px 0px; } .builder-item--primary-menu .nav-ul > li:not(:last-of-type){ margin-right:20px; } .builder-item--primary-menu .style-full-height .nav-ul li:not(.menu-item-nav-search):not(.menu-item-nav-cart) > a:after{ left:-10px;right:-10px } .builder-item--primary-menu .style-full-height .nav-ul li:not(.menu-item-nav-search):not(.menu-item-nav-cart):hover > a:after{ width: calc(100% + 20px); } .builder-item--primary-menu .nav-ul li a, .builder-item--primary-menu .neve-mm-heading span{ min-height: 25px; } .builder-item--primary-menu{ font-size: 0.8em; line-height: 1.6em; letter-spacing: 0px; padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--primary-menu svg{ width: 0.8em;height: 0.8em; } .builder-item--footer_copyright{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; padding:0px 0px 0px 0px;margin:0px 0px 0px 0px; } .builder-item--footer_copyright svg{ width: 1em;height: 1em; } }.nv-content-wrap .elementor a:not(.button):not(.wp-block-file__button){ text-decoration: none; }:root{--nv-primary-accent:#2b2b2b;--nv-secondary-accent:#fcaf3b;--nv-site-bg:#ffffff;--nv-light-bg:#ededed;--nv-dark-bg:#14171c;--nv-text-color:#2b2b2b;--nv-text-dark-bg:#ffffff;--nv-c-1:#77b978;--nv-c-2:#f37262;--nv-fallback-ff:Arial, Helvetica, sans-serif;}
-:root{--e-global-color-nvprimaryaccent:#2b2b2b;--e-global-color-nvsecondaryaccent:#fcaf3b;--e-global-color-nvsitebg:#ffffff;--e-global-color-nvlightbg:#ededed;--e-global-color-nvdarkbg:#14171c;--e-global-color-nvtextcolor:#2b2b2b;--e-global-color-nvtextdarkbg:#ffffff;--e-global-color-nvc1:#77b978;--e-global-color-nvc2:#f37262;}
- #content.neve-main .container .alignfull > [class*="__inner-container"],#content.neve-main .alignwide > [class*="__inner-container"]{ max-width: 718px; } @media(min-width: 576px){ #content.neve-main .container .alignfull > [class*="__inner-container"],#content.neve-main .alignwide > [class*="__inner-container"]{ max-width: 962px; } } @media(min-width: 960px) { #content.neve-main .container .alignfull > [class*="__inner-container"],#content.neve-main .container .alignwide > [class*="__inner-container"]{ max-width: 1140px; } #content.neve-main > .container > .row > .col{ max-width: 100%; } #content.neve-main > .container > .row > .nv-sidebar-wrap, #content.neve-main > .container > .row > .nv-sidebar-wrap.shop-sidebar { max-width: 0%; } }</style>
-<link rel="stylesheet" id="elementor-icons-css" href="/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-animations-css" href="/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.5" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-frontend-css" href="/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.5" type="text/css" media="all">
-<style id="elementor-frontend-inline-css" type="text/css">@font-face{font-family:eicons;src:url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}</style>
-<link rel="stylesheet" id="elementor-post-228-css" href="/wp-content/uploads/elementor/css/post-228.css?ver=1624610252" type="text/css" media="all">
-<link rel="stylesheet" id="elementor-post-28-css" href="/wp-content/uploads/elementor/css/post-28.css?ver=1624686306" type="text/css" media="all">
+:root{--e-global-color-nvprimaryaccent:#2b2b2b;--e-global-color-nvsecondaryaccent:#fcaf3b;--e-global-color-nvsitebg:#ffffff;--e-global-color-nvlightbg:#ededed;--e-global-color-nvdarkbg:#14171c;--e-global-color-nvtextcolor:#2b2b2b;--e-global-color-nvtextdarkbg:#ffffff;--e-global-color-nvc1:#77b978;--e-global-color-nvc2:#f37262;}</style>
 <link rel="stylesheet" id="neve-google-font-poppins-css" href="//fonts.googleapis.com/css?family=Poppins%3A400%2C600&#038;display=swap&#038;ver=2.11.6" type="text/css" media="all">
-<link rel="stylesheet" id="google-fonts-1-css" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.7.2" type="text/css" media="all">
 <link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/28">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/posts/61">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 5.7.2">
-<link rel="canonical" href="/300f0-web-agency-about/">
-<link rel="shortlink" href="/?p=28">
-<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhost-2%3A8888%2F300f0-web-agency-about%2F">
-<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhost-2%3A8888%2F300f0-web-agency-about%2F&#038;format=xml">
+<link rel="canonical" href="/%e9%a1%b9%e7%9b%ae%e8%ae%be%e8%ae%a1/">
+<link rel="shortlink" href="/?p=61">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhost-2%3A8888%2F%25e9%25a1%25b9%25e7%259b%25ae%25e8%25ae%25be%25e8%25ae%25a1%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fhost-2%3A8888%2F%25e9%25a1%25b9%25e7%259b%25ae%25e8%25ae%25be%25e8%25ae%25a1%2F&#038;format=xml">
 <!-- Enter your scripts here --><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 	</head>
 
-<body class="page-template page-template-elementor_header_footer page page-id-28 wp-custom-logo nv-sidebar-full-width menu_sidebar_slide_left elementor-default elementor-template-full-width elementor-kit-228 elementor-page elementor-page-28" id="neve_body">
+<body class="post-template-default single single-post postid-61 single-format-standard wp-custom-logo nv-sidebar-right menu_sidebar_slide_left elementor-default elementor-kit-228" id="neve_body">
 <div class="wrapper">
 	
 	<header class="header" role="banner">
@@ -86,8 +80,8 @@ img.emoji {
 		<ul id="nv-primary-navigation-main" class="primary-menu-ul nav-ul">
 <li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-222"><a href="/">首页</a></li>
 <li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="/300f0-web-agency-portfolio/">产品与服务</a></li>
-<li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28 current_page_item menu-item-224"><a href="/300f0-web-agency-about/" aria-current="page">关于我们</a></li>
-<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="/300f0-web-agency-news/">新闻</a></li>
+<li id="menu-item-224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="/300f0-web-agency-about/">关于我们</a></li>
+<li id="menu-item-227" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-227"><a href="/300f0-web-agency-news/">新闻</a></li>
 <li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a href="/185-2/">招贤纳士</a></li>
 </ul>	</div>
 </div>
@@ -161,8 +155,8 @@ img.emoji {
 		<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul nav-ul">
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-222"><a href="/">首页</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="/300f0-web-agency-portfolio/">产品与服务</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28 current_page_item menu-item-224"><a href="/300f0-web-agency-about/" aria-current="page">关于我们</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-227"><a href="/300f0-web-agency-news/">新闻</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-224"><a href="/300f0-web-agency-about/">关于我们</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-227"><a href="/300f0-web-agency-news/">新闻</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a href="/185-2/">招贤纳士</a></li>
 </ul>	</div>
 </div>
@@ -182,118 +176,118 @@ img.emoji {
 	
 	<main id="content" class="neve-main" role="main">
 
-		<div data-elementor-type="wp-page" data-elementor-id="28" class="elementor elementor-28" data-elementor-settings="[]">
-							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-4289a2a elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4289a2a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-180b719" data-id="180b719" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9c76e5e elementor-widget elementor-widget-image" data-id="9c76e5e" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img src="/wp-content/uploads/2020/01/neve-web-design-studio-06.jpg" title="" alt="">															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b10cbf9" data-id="b10cbf9" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-291533d elementor-widget elementor-widget-heading" data-id="291533d" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">我们的故事</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-e479d2f elementor-widget elementor-widget-text-editor" data-id="e479d2f" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<p>博克奔迈成立于2003年，是国内领先的企业执行系统集成商，基于创新理念、先进管理及专业服务，应用微软Microsoft系统应用软件、无线网络系统、条码和移动计算等技术，助企业实现卓越运作。提供知名品牌IT产品代理销售、系统集成综合解决方案、IT设备芯片级维护服务、企业资源计划（ERP）实施服务、技术支持及信息技术外包业务等。</p>
-<p>公司拥有一支顾问型的销售队伍，专业的技术支持和技术精湛的维修队伍。恪守“一站式服务”的宗旨。提供客户完善的售前、售中、售后的全套服务。通过提升公司技术含量和系统化服务水准,靠公司员工的敬业精神与专业同众多客户结成真挚的友谊。形成了密切的合作伙伴关系。</p>
-<p>目前，B＆P完成了众多项目，并针对不同的用户形成了许多别具创意的解决方案，赢得了多方赞誉。B＆P恪守商业信誉，竭诚提供优质服务，满足客户需求。</p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-3ba47cd elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3ba47cd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1d6aef9" data-id="1d6aef9" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6a6214e elementor-widget elementor-widget-heading" data-id="6a6214e" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Why we are different</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5a86f5a elementor-widget elementor-widget-text-editor" data-id="5a86f5a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<p>经过发展，BPChiina的产品、服务深得用户信赖，建立了良好的市场信誉。在企业信息系统安全集成及服务，VMware、微软虚拟化及私有云相关产品及服务等方面积累了许多成功经验，锻炼了一批技术过硬、服务专业、经验丰富的技术骨干。公司拥有高级职称的项目管理师和PMP（美国PMI认证）项目经理，把严格的项目管理理念贯彻在项目服务的每一个阶段，使每一个项目每一次服务更加可管可控。专业技术能力与影响和资深项目管理经验的技术带头人，合理配置了队伍的梯队结构，在行业中表现出突出的竞争能力。<br>B＆P坚持“信守服务承诺，迅速解决问题”的服务方针，以保证客户安全使用为目标。依托雄厚的技术实力和完善的服务体系，为行业客户提供定制的完善解决方案。我们吸引和培养优秀的人才：人才是B＆P最珍贵的资源，是创造企业价值和社会价值的源泉。</p>
-<p>Re-inventing the wheel let&#8217;s put a pin in that high touch client post launch but good optics 60% to 30% is a lot of persent</p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-7bf2068 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="7bf2068" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-size-md" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">联系我们</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0666b8c" data-id="0666b8c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8c20997 elementor-widget elementor-widget-image" data-id="8c20997" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img src="/wp-content/uploads/2020/01/neve-web-design-studio-11.jpg" title="" alt="">															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-b498783 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b498783" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9da965a" data-id="9da965a" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-dcd5d10 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dcd5d10" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4a9a82b" data-id="4a9a82b" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-fafcafc elementor-widget elementor-widget-heading" data-id="fafcafc" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">联系地址</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-4cc6c4c elementor-widget elementor-widget-text-editor" data-id="4cc6c4c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<p>公司地址：上海市番禺路390号时代大厦1806室<br>邮政编码：200052</p>
-<p>电话：86 (21) 52585196<br>传真：86 (21) 52585028</p>
-<p>信息工程部联系人：郝先生 13601946832</p>
-<p>数码部联系人：戚先生 13003208737</p>
-<p>ERP实施部联系人：费先生 13331966080</p>
-<p>Email：service.bp@shbkbm.com</p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>
-<p><audio style="display: none;" controls="controls"></audio></p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-						</div>
-					</div>
+	<div class="container single-post-container">
+		<div class="row">
+						<article id="post-61" class="nv-single-post-wrap col post-61 post type-post status-publish format-standard hentry category-chanpin">
+				<div class="entry-header"><div class="nv-title-meta-wrap">
+<h1 class="title entry-title ">项目设计</h1>
+<ul class="nv-meta-list"><li class="meta author vcard"><span class="author-name fn">由 <a href="/author/admin/" title="Posts by admin" rel="author">admin</a></span></li></ul>
+</div></div>
+<div class="nv-content-wrap entry-content">
+<p class="STYLE23" align="center">项目设计<br>
+( Project Design )</p>
+<p class="STYLE22" align="left">B＆P根据行业和系统的功能及特点，采用先进技术，为客户提供符合国际和国内规范、兼具先进性、开放性、扩展性和经济性的IT弱电系统设计方案，以及最高性价比的解决方案。</p>
+<p class="STYLE23" align="left">按行业性质分类，B＆P提供：</p>
+<div class="STYLE22" align="left">
+<ul>
+<li>办公室IT弱电系统解决方案</li>
+<li>厂房IT弱电系统解决方案</li>
+<li>智能楼宇IT弱电系统解决方案</li>
+<li>零售业IT弱电系统解决方案</li>
+<li>酒店IT弱电系统解决方案</li>
+<li>娱乐IT管理系统解决方案</li>
+</ul>
+</div>
+<p class="STYLE23" align="left">按系统性质分类，B＆P提供：</p>
+<div class="STYLE22" align="left">
+<ul>
+<li>综合布线系统</li>
+<li>无线网络传输系统</li>
+<li>语音交换系统</li>
+<li>局、广域网络系统</li>
+<li>计算机机房建设系统</li>
+<li>数字宽带接入系统</li>
+<li>服务器数据管理、存储系统</li>
+<li>背景音响广播系统</li>
+<li>多功能厅A/V会议系统</li>
+<li>VOD音视频点播系统</li>
+<li>闭路电视监控系统</li>
+<li>门禁考勤管理系统</li>
+<li>防盗报警和巡更系统</li>
+<li>办公自动化系统</li>
+<li>多媒体教学系统</li>
+<li>酒店、餐饮、娱乐管理系统</li>
+<li>医院信息化管理系统</li>
+<li>智能化家居和物业管理系统</li>
+<li>多点视频会议系统</li>
+<li>触摸查询管理系统</li>
+<li>网站建设系统</li>
+</ul>
+<div align="left">
+<strong>B＆P</strong>将不同的系统合理的融入到各个行业中，以此实现各个行业所需的各项应用和管理功能，最大程度上贴合客户需求。B＆P将通过系统图、平面图、效果图等各类型图纸的设计并结合所编译的文字说明和报价来体现B＆P对于每个项目系统的论证和认识。</div>
+</div>
+</div>
+<div id="comments" class="comments-area">
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">发表评论 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/%E9%A1%B9%E7%9B%AE%E8%AE%BE%E8%AE%A1/#respond" style="display:none;">取消回复</a></small>
+</h3>
+<form action="/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+<p class="comment-notes"><span id="email-notes">您的电子邮箱地址不会被公开。</span> 必填项已用<span class="required">*</span>标注</p>
+<p class="comment-form-comment"><label for="comment">评论</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p>
+<p class="comment-form-author"><label for="author">显示名称 <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"></p>
+<p class="comment-form-email"><label for="email">电子邮箱地址 <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"></p>
+<p class="comment-form-url"><label for="url">网站地址</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200"></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"> <label for="wp-comment-cookies-consent">在此浏览器中保存我的显示名称、邮箱地址和网站地址，以便下次评论时使用。</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="发表评论"> <input type="hidden" name="comment_post_ID" value="61" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+</p>
+</form>	</div>
+<!-- #respond -->
+	</div>
+			</article>
+			<div class="nv-sidebar-wrap col-sm-12 nv-right blog-sidebar">
+		<aside id="secondary" role="complementary">
 		
+		<div id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="/">
+				<label>
+					<span class="screen-reader-text">搜索：</span>
+					<input type="search" class="search-field" placeholder="搜索&hellip;" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="搜索">
+			<div class="nv-search-icon-wrap"><div class="nv-icon nv-search">
+				<svg width="15" height="15" viewbox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"></path></svg>
+			</div></div>
+</form></div>
+		<div id="recent-posts-2" class="widget widget_recent_entries">
+		<p class="widget-title">近期文章</p>
+		<ul>
+											<li>
+					<a href="/sdfs/">sdfs</a>
+									</li>
+											<li>
+					<a href="/%e5%b7%a5%e7%a8%8b%e9%83%a8%e9%83%a8%e5%88%86%e5%ae%a2%e6%88%b7%e5%90%8d%e5%bd%95/">工程部部分客户名录</a>
+									</li>
+											<li>
+					<a href="/%e8%81%94%e7%b3%bb%e6%96%b9%e5%bc%8f/">联系方式</a>
+									</li>
+											<li>
+					<a href="/bp-%e5%8d%9a%e5%85%8b%e5%a5%94%e8%bf%88-erp%e5%ae%9e%e6%96%bd%e9%83%a8%e7%ae%80%e4%bb%8b/">B&#038;P 博克奔迈 ERP实施部简介</a>
+									</li>
+											<li>
+					<a href="/%e5%94%ae%e5%90%8e%e6%9c%8d%e5%8a%a1/">售后服务</a>
+									</li>
+					</ul>
+
+		</div>
+<div id="recent-comments-2" class="widget widget_recent_comments">
+<p class="widget-title">近期评论</p>
+<ul id="recentcomments"></ul>
+</div>
+			</aside>
+</div>
+		</div>
+	</div>
+
 </main><!--/.neve-main-->
 
 <footer class="site-footer" id="site-footer">
@@ -327,20 +321,6 @@ var NeveProperties = {"ajaxurl":"http:\/\/host-2:8888\/wp-admin\/admin-ajax.php"
 <script type="text/javascript" src="/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=2.11.6" id="neve-script-js" async></script>
 <script type="text/javascript" src="/wp-includes/js/comment-reply.min.js?ver=5.7.2" id="comment-reply-js"></script>
 <script type="text/javascript" src="/wp-includes/js/wp-embed.min.js?ver=5.7.2" id="wp-embed-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.2.5" id="elementor-webpack-runtime-js"></script>
-<script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.5" id="elementor-frontend-modules-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
-<script type="text/javascript" src="/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1" id="jquery-ui-core-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.2.5" id="share-link-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1" id="elementor-dialog-js"></script>
-<script type="text/javascript" id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"在脸书上分享","shareOnTwitter":"分享到Twitter","pinIt":"钉住","download":"下载","downloadImage":"下载图片","fullscreen":"全屏","zoom":"縮放","share":"分享","playVideo":"播放视频","previous":"上一页","next":"下一页","close":"关闭"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"手机","value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"direction":"max","is_enabled":false},"tablet":{"label":"平板","value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1365,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1620,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"direction":"min","is_enabled":false}}},"version":"3.2.5","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"a11y_improvements":true,"landing-pages":true},"urls":{"assets":"http:\/\/host-2:8888\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":28,"title":"%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC%20%E2%80%93%20bpChina","excerpt":"","featuredImage":false}};
-</script>
-<script type="text/javascript" src="/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.2.5" id="elementor-frontend-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.2.5" id="preloaded-modules-js"></script>
 </body>
 
 </html>
